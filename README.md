@@ -1,11 +1,11 @@
 # BMI Calculator
 
-A new Flutter project.
+A simple BMI calculator
 
 ## Screeshots
 
-![Screenshot_1660055534](https://user-images.githubusercontent.com/101318795/183709297-1ae48a70-0f93-4801-bcdb-01d1456174f1.png)
+![new](https://user-images.githubusercontent.com/101318795/183710886-87c33cd0-ea73-4a22-8dc8-87ce581bd21a.png)
 
-![Screenshot_1660056830](https://user-images.githubusercontent.com/101318795/183709311-34ebe945-e5b6-44e9-9127-4b48ff80e1a6.png)
+![Screenshot_1660056830](https://user-images.githubusercontent.com/101318795/183711107-22f98686-bf5d-4a68-91b6-c2779c05ebbe.png)
 
-![Screenshot_1660055825](https://user-images.githubusercontent.com/101318795/183709325-9682bc4b-15c8-4afe-bf18-44b233db7db4.png)
+![Screenshot_1660055825](https://user-images.githubusercontent.com/101318795/183711530-4dd4f6bf-21be-4a35-bb96-67087ed60390.png)
